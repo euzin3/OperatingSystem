@@ -1,4 +1,6 @@
-<span style="font-size:24px; font-weight:bold;">OS hw2 Multiprogramming-based Batch System Simulator</span>
+# OS hw2 Multiprogramming-based Batch System Simulator  
+프로세스의 CPU/IO 작업을 스케줄링하여 전체 수행 시간과 CPU 사용률을 계산해, 
+Multiprogramming 기반 Batch System 시뮬레이터를 구현하는 과제입니다.
 <br><br>
 
 ## 과제 #2
